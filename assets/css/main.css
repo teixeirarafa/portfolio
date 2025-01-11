@@ -1872,7 +1872,7 @@ button,
     #main > .inner {
       padding: 0 4em 0.1em 4em ; }
       #main > .inner > section {
-        padding: 4em 0 2em 0 ; } }
+        padding: 2em 0 2em 0 ; } }
   @media screen and (max-width: 736px) {
     #main > .inner {
       padding: 0 2em 0.1em 2em ; }
@@ -2139,7 +2139,7 @@ button,
     margin: 0 0 2em 4em;
     width: auto; }
     #banner .image img {
-      height: 100%;
+      height: 90%;
       -moz-object-fit: cover;
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
